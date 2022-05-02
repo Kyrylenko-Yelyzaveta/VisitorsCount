@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569294185936",
+    "project_id": "visitorscounter-32308",
+    "storage_bucket": "visitorscounter-32308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569294185936:android:15fe15e0241a45016745d5",
+        "android_client_info": {
+          "package_name": "com.example.visitorscounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569294185936-evg9uhict6hsbjbh98ko7bo4j037fhkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRrnVQ5w7hDNhjw8lv070P86e_LRF9pOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569294185936-evg9uhict6hsbjbh98ko7bo4j037fhkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
