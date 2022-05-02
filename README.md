@@ -1,5 +1,5 @@
 # VisitorsCount
-Application that uses Firebase & Onesignal
+Application that uses Firebase & Onesignal. MVP
 
 ## Main task
 Develop android application using kotlin. App must
